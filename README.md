@@ -2,4 +2,4 @@
 COURSERA COURSE
 
 # OUTPUTS
-# To see the output [MODULE 2](https://devansh-dj007.github.io/HTML-CSS-and-Javascript-for-Web-Developers/MODULE%202/index.html)
+# [MODULE 2](https://devansh-dj007.github.io/HTML-CSS-and-Javascript-for-Web-Developers/MODULE%202/index.html)
